@@ -63,11 +63,12 @@ label {
 label:hover{
 	transform:  scale(1.25);
 	color : #cdcf34;
+	/*
 	box-shadow: 2px 2px 2px #cdcf34,
 			2px -2px 2px #cdcf34,
 			-2px 2px 2px #cdcf34,
 			-2px -2px 2px #cdcf34;
-	
+	*/
 }
 
 input {
