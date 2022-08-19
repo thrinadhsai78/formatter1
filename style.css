@@ -110,12 +110,10 @@ input[type="radio"]:hover {
 	margin-right: 15%;
  	background: red;
 }
-
 input[type="radio"]:hover ~ label{
 	transform: scale(1.25);
 	color: #dfbf0b;
 }
-
 input.btn {
   background: #094e8f;
   padding: 4px 8px;
@@ -127,7 +125,6 @@ input.btn {
   position: relative;
   max-width: 40%;
 }
-
 .btn input:hover {
   color: #1dc2c5;
   border-radius: 16px;
@@ -135,7 +132,6 @@ input.btn {
   transform: rotatey(360deg) scale(1.1, 1.1);
   transition: all 0.5s ease-in-out 0s;
 }
-
 li {
   list-style: none;
   display: block;
@@ -164,7 +160,6 @@ input.custom {
   	label {
     	font-size: 6px;
   	}
-
 	input[type="text"] {
 		max-width: 70%;
 	}
@@ -175,3 +170,6 @@ input.custom {
 		height: 900px;
 	}
 }
+
+
+
